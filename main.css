@@ -58,3 +58,30 @@ footer {
   justify-content: center;
 
 }
+
+.cat {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: center;
+
+
+}
+
+img {
+  margin: 10px;
+  max-width: 300px;
+  height: auto;
+
+}
+
+.cat img {
+  border-radius: 10px 60px;
+  border: inset blueviolet 5px;
+  
+}
+
+.dog img {
+  border-style: groove 3px;
+  border: solid salmon 5px;
+  height: 200px;
+}
