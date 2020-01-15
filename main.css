@@ -51,3 +51,10 @@ footer {
   margin: 10px 0px;
 
 }
+
+.dog {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: center;
+
+}
